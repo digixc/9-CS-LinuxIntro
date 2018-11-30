@@ -115,8 +115,7 @@ cd /home
 cp -R * /tmp/
 cd /tmp/treasure_hunt
 #+end_src
-- What these instructions do will become apparent as you work through this topic. 
-- *NOTE:* If you're working through this lesson using a Linux VM (your teacher will tell you), you will need to follow [[./2b_Lesson.html][this]] set of instructions instead.
+
 ** Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research

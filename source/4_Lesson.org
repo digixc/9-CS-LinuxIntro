@@ -130,18 +130,17 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
-- We're actually going to work on a different computer today. A web-server that you can create pages on which your friends can see. 
-- We can't connect to it with the pop-up JavaScript emulator you've used in the previous sessions, so start by double-clicking the "Ubuntu" icon on your Windows desktop.
+- We're actually going to work on a different computer today. A web-server that you can create pages on which your friends can see while they are in school. 
+- To connect to it, you will need to go to open drive, then computing. Double click on the *SSH Terminal*.
 - Once the session has started, log in with your standard network username and password.
 - *Note:* As you type your password, you won't see anything. This is normal; just don't look at the screen and you won't notice.
-- When logged in, type =startx= to get a more attractive interface. You'll need to log in to this too.
-- When on the Ubuntu desktop, click the 'Activities' link in the top-left corner or the screen and type =Terminal= to load up a the command line so we can get started.
+
 ** Learn It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
 :END:
 - One of the great things about using Linux is the ability to work on other machines around the World easily. This is often achieved using a program called SSH, short for 'secure shell'. It's remarkably easy to connect to another computer.
-- In the terminal window, type:
+- In the terminal window you just connected to, type:
 #+begin_src
 ssh 00zz11@studentweb
 #+end_src
@@ -213,6 +212,6 @@ ssh 00zz11@studentweb
 #+BEGIN_HTML
 <iframe width="650" height="393" src="https://www.youtube.com/embed/9sGcNsq0QEo" frameborder="0" allowfullscreen></iframe>
 #+END_HTML
-- *Silver:* Write a tutorial (in emacs) for someone who's never used emacs before to explain how to make a new file, change it, save it and quit emacs.
+- *Silver:* Using *emacs* write a tutorial for someone who's never used emacs before to explain how to make a new file, change it, save it and quit emacs.
 - *Gold:* Research how to cut, copy and paste in emacs. Write this on the bottom of your answer to the silver badge. /Note:/ It's not called cut, copy and paste in UNIX-like systems (for example, linux).
 - *Platinum:* The other popular text editor is =vi=. Find out how to edit a file, save it and quit. Give your teacher a demonstration (or add it to your silver/gold notes to collect this badge).
