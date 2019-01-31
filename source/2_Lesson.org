@@ -22,7 +22,7 @@
       <li><a href="3_Lesson.html">Week3</a></li>
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
-      <li><a href="assessment.html">Assessment</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
     </ul>
   </div>
 #+END_HTML
@@ -90,6 +90,17 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
+* Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END:
+** Developing the *Information Technology* and *Programming and Development* learning strands, specifically:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Uses logical reasoning to predict the behaviour of programs. 
+- Executes, checks and changes programs. Understands that programs execute by following precise instructions.
+- Uses technology with increasing independence to purposefully organise digital content. 
 * Introduction
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
