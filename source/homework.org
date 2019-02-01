@@ -20,7 +20,7 @@
       <li><a href="3_Lesson.html">Week3</a></li>
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
-      <li><a href="assessment.html">Assessment</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
     </ul>
   </div>
 #+END_HTML
@@ -97,13 +97,22 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Write a short report/presentation about another Linux distro. Include screenshots and all its useful features.
+- We have started to look at Linux which is an Operating System, just like Windows we you have used a lot already.
+- You also have Operating Systems on smartphones too, like Android and iOS.
+- Your task is to compare the User Interface (UI) of Windows and the UI of a smartphone that you have used.
+- Look at the list of UI components below and then write a sentence on what we use on smartphones instead of them and *why*.
+
+ 1. Start Menu
+ 2. Desktop screen
+ 3. Programs
+ 4. Login screen
+ 5. Taskbar
 
 ** Homework 2
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Research the following and answer each question with a paragraph using complete sentences (not copy and paste from the Internet) and no spelling mistakes.
+- Research the following and answer each question with a paragraph using complete sentences (not copy and pasted from the Internet) and no spelling mistakes.
 
   1. Linux is a free and open source OS.  What does it mean by open source?
   2. What is a kernel?
@@ -127,7 +136,7 @@ Answer the following questions:
 
 3. Tom wants to create another directory for his subject Maths under his own home directory. What command does he need?
 
-4. Tom has a file named “MathsExecise.txt” under his home directory. What command allows him to move this file into the new Maths directory he just created?
+4. Tom has a file named “MathsExercise.txt” under his home directory. What command allows him to move this file into the new Maths directory he just created?
 
 5. Under his home directory, Tom used “cd Maths” to navigate to the Maths directory. After he has done some work, he needs to move back to his home directory. What is the shortest command Tom can use?
 
