@@ -21,7 +21,7 @@
       <li><a href="3_Lesson.html">Week3</a></li>
       <li><a href="4_Lesson.html">Week4</a></li>
       <li><a href="5_Lesson.html">Week5</a></li>
-      <li><a href="assessment.html">Assessment</a></li>
+      <li><a href="6_Lesson.html">Week6</a></li>
     </ul>
   </div>
 #+END_HTML
@@ -89,6 +89,17 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
+* Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END:
+** Developing the *Information Technology* and *Literacy* learning strands, specifically:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Uses a variety of software to manipulate and present digital content: data and information. 
+- Be able to research and put information into own words using good spelling and grammar.
+- Uses technology with increasing independence to purposefully organise digital content.
 * Introduction
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity

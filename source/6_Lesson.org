@@ -89,6 +89,17 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
+* Objectives
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: objectives
+:END:
+** Developing the *Programming and Development* learning strand, specifically:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Can issue commands through a text based interface and recieve appropriate and correct responses.
+- Understand and use expressions to read and write complex strings.
+- Knows that users can develop their own programs, and can demonstrate this by creating a simple program.
 * Introduction
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
